@@ -24,7 +24,7 @@ function CookieClicker() {
           }
         }}
       >
-        Buy some upgrade
+        Buy some upgrade (cost 10 cookies)
       </button>
     </>
   );
