@@ -1,8 +1,9 @@
 import "./App.css";
-import CookieClicker from "./CookieClicker";
+import CatFacts from "./CatFacts";
+// import CookieClicker from "./CookieClicker";
 
 function App() {
-  return <CookieClicker />;
+  return <CatFacts />;
 }
 
 export default App;
