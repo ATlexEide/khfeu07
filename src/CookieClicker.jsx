@@ -14,7 +14,7 @@ function CookieClicker() {
           setCount(count + 1);
         }}
       >
-        Click me
+        <img width="80px" src="cookie.png" />
       </button>
       <button
         onClick={() => {
